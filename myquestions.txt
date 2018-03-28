@@ -1,0 +1,19 @@
+Q:Is it fluffy?
+Q:Is it alive?
+Q:Does it meow?
+A:cat
+A:bunny
+Q:Do you sleep on it?
+A:pillow
+A:stuffed animal
+Q:Is it edible?
+Q:Does it have rice?
+A:fried rice
+A:Hamburger
+Q:Can you drink it?
+Q:Does it taste like 7-up?
+A:Sprite
+A:Dr.Pepper
+Q:Is it animated?
+A:anime
+A:computer
